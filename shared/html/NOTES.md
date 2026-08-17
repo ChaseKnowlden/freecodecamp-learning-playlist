@@ -13,7 +13,15 @@ HTML is made up of elements.  An element is an individual component of HTML.  An
 ### DOCTYPE html
 [DOCTYPE html](https://developer.mozilla.org/en-US/docs/Glossary/Doctype) is what all HTML files are going to start with.  This is also the first element on every HTML webpage.  It tells the browser to expect HTML and what version to use, and DOCTYPE html just means to use the latest version of HTML.
 
+### HTML tag
+_Not to be confused with [HTML Elements](#html-elements)._
+
+The HTML tag (`<html>`) is what all page content must be contained in.
+
 ## FAQ
 
 ### Which primary HTML file to use in your projects?
 Name your primary HTML file index.html.
+
+### Why is DOCTYPE html recommended?
+Its sole purpose is to prevent a browser from switching to quirks mode when rendering a document.
