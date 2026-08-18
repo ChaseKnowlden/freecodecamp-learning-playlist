@@ -21,3 +21,7 @@ The heading tags (`<h1>` to `<h6>`) represent or identify the six levels of sect
 
 ## h3
 `<h3>` is the third biggest heading.
+
+```html
+<h3>Cat Photos</h3>
+```

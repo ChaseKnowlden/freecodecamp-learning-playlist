@@ -8,3 +8,5 @@ Cmd/Ctrl-V - Paste
 Cmd/Ctrl-/ - Comment Code
 
 Cmd/Ctrl-X - Cut
+
+Tab - Indent
