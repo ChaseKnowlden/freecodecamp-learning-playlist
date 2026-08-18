@@ -85,4 +85,3 @@ This repo is intentionally lightweight and can be extended as projects grow. Eac
 ## License
 
 This project is a personal learning repository and is not affiliated with FreeCodeCamp as an official course project unless otherwise stated.
-
