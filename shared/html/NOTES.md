@@ -18,6 +18,12 @@ _Not to be confused with [HTML Elements](#html-elements)._
 
 The HTML tag (`<html>`) is what all page content must be contained in.
 
+### Body tag
+The body tag contains all of the visible content in a page.
+
+### Head tag
+The head tag contains the page metadata and page title.
+
 ## FAQ
 
 ### Which primary HTML file to use in your projects?

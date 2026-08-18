@@ -1,0 +1,1 @@
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Reloads the page on save
