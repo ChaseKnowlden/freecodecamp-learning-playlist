@@ -1,2 +1,3 @@
 # HTML Editors
-You can use Codepen or Visual Studio Code for HTML.
+[Visual Studio Code](https://code.visualstudio.com/) - Full-Fledged Code Editor
+[CodePen](https://codepen.io/) - Online Code Editor
