@@ -1,4 +1,4 @@
-# HTML
+# HTML Basics
 HTML stands for HyperText Markup Language, it is used to create webpages.
 
 ## Usage
