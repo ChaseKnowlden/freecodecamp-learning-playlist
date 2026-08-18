@@ -1,4 +1,4 @@
-# Headings
+# HTML Headings
 The heading tags (`<h1>` to `<h6>`) represent the six levels of section headings.
 
 ## Usage notes
