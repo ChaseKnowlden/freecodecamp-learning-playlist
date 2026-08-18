@@ -31,3 +31,6 @@ Name your primary HTML file index.html.
 
 ### Why is DOCTYPE html recommended?
 Its sole purpose is to prevent a browser from switching to quirks mode when rendering a document.
+
+### Why do I use Live Server?
+Live server reloads the webpage on save, which is much faster than manually opening the HTML file in your file browser or pressing Cmd/Ctrl-R or F5.
