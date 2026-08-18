@@ -1,4 +1,5 @@
 # Headings
+The heading tags (`<h1>` to `<h6>`) represent the six levels of section headings.
 
 ## Usage notes
 - Do not skip heading levels: always start from `<h1>`, followed by `<h2>` and so on.
